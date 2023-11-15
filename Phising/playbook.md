@@ -12,7 +12,7 @@
 This playbook is specifically designed to address response to a phishing link being clicked.
 
 ```mermaid
-Flowchart TD
+flowchart TD
     A[Start: Phishing Incident Response] --> B[Are DeFi Assets Drained?]
     B -- Yes --> C[Collect Transaction Hash]
     C --> D[Identify Address That Drained Assets]
