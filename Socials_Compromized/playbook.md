@@ -26,8 +26,6 @@
     2. Search for phishing emails (phishing emails are the most common method of credntial theft).
     3. Once method of initial compromise is determined, use the Indicators of Compromise (IoCs) gathered to search the environment for other victims.
 
-
-
 ## 3. Response
 <a id="3-response"></a>
 ```mermaid
@@ -50,15 +48,16 @@ flowchart TD
     1. Begin company wide communication strategy to alert of compromized platform. 
     2. Begin communicating to customers to avoid clicking any links in twitter communications. 
     3. If a link has been posted, report immediately to Virus Total and PR [MetaMask Phishing Detect](https://github.com/MetaMask/eth-phishing-detect).
+    4. If link requires wallet connection which may result in drainage, report the associated contract address to [Etherscan](https://info.etherscan.com/report-address/#:~:text=Search%20for%20the%20address%20of,Address%20from%20the%20dropdown%20menu.) and [Chain Abuse](https://www.chainabuse.com/report).
 
 - If Discord server compromized immediately [Report it](https://support.discord.com/hc/en-us/requests/new)
     1. If access to server is still available, begin locking down server.
     2. Begin revoking roles in server.
     3. Communicate via Twitter that discord server is compromized, click no links.
     4. If a link has been posted, report immediately to Virus Total and PR [MetaMask Phishing Detect](https://github.com/MetaMask/eth-phishing-detect).
+    5. If link requires wallet connection which may result in drainage, report the associated contract address to [Etherscan](https://info.etherscan.com/report-address/#:~:text=Search%20for%20the%20address%20of,Address%20from%20the%20dropdown%20menu.) and [Chain Abuse](https://www.chainabuse.com/report).
 
-    
-4. Recovery
+## 4. Recovery
 <a id="4-recovery"></a>
 
 - Secure and regain control of compromised accounts.
