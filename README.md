@@ -1,4 +1,4 @@
-# DEFI Incident Response Playbooks
+# DIRP - DEFI Incident Response Playbooks
 
 Welcome to the DEFI Incident Response Playbook repository. This repository serves as a comprehensive resource for protocols and users within the DEFI space, providing detailed playbooks for various incidents. These playbooks are designed to offer structured responses to a range of scenarios that may impact DEFI platforms and their users.
 
