@@ -68,7 +68,7 @@ flowchart TD
 
 - Immediate steps upon wallet drainage:
     - Avoid sending large amounts of ETH (or gas asset) to primary wallet.
-    - Transfer any and all remaining funds and assets to the new hotwallet.
+    - Transfer any and all remaining funds and assets to the new hotwallet, use a service such as [Hacked Wallet Recovery](https://hackedwalletrecovery.com/_).
     - Alert internal security teams and start emergency protocols.
     - Issue organization-wide notifications to cease all blockchain-related operations temporarily.
     - Update any active contracts with new admin (if applicable).
