@@ -1,6 +1,6 @@
 # DIRP - DEFI Incident Response Playbooks
 
-Less than 2% of DeFi protocols have an Incident Response plan. DIRP features adaptable playbooks to address this void, offering a vital resource for protocols and users in the DeFi space. These playbooks provide structured guidance for diverse scenarios that could affect DeFi platforms and their stakeholders. While these resources are not tailored or exhaustive, they offer a valuable foundation, recognizing that each incident is distinct and requires a unique approach.
+Less than 2% of DeFi protocols questioned asserted they have an Incident Response plan. DIRP features adaptable playbooks to address this void, offering a vital resource for protocols and users in the DeFi space. These playbooks provide structured guidance for diverse scenarios that could affect DeFi platforms and their stakeholders. While these resources are not tailored or exhaustive, they offer a valuable foundation, recognizing that each incident is distinct and requires a unique approach.
 
 ## Repository Structure
 
