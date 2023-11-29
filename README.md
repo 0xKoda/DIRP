@@ -1,6 +1,6 @@
 # DIRP - DEFI Incident Response Playbooks
 
-Welcome to the DEFI Incident Response Playbook repository. This repository serves as a comprehensive resource for protocols and users within the DEFI space, providing detailed playbooks for various incidents. These playbooks are designed to offer structured responses to a range of scenarios that may impact DEFI platforms and their users.
+Less than 2% of DeFi protocols have an Incident Response plan. DIRP features adaptable playbooks to address this void, offering a vital resource for protocols and users in the DeFi space. These playbooks provide structured guidance for diverse scenarios that could affect DeFi platforms and their stakeholders. While these resources are not tailored or exhaustive, they offer a valuable foundation, recognizing that each incident is distinct and requires a unique approach.
 
 ## Repository Structure
 
@@ -10,22 +10,20 @@ Each playbook within this repository is organized into specific folders based on
 - Step-by-step instructions for effective incident management.
 - Additional resources and references for deeper understanding.
 
-## Public Use
-
-These playbooks are made available for public use with the intention of enhancing the security and response capability within the DEFI community. They are designed to be accessible and useful for a wide range of users, from protocol developers to individual investors.
-
 ## Contributing
 
-Your contributions are essential to the growth and effectiveness of this repository. If you have expertise in DEFI security, incident response, or related areas, your input can significantly enhance these resources. When contributing:
+Your contributions are essential to the growth and effectiveness of this repository. If you have experience in DEFI security, incident response, or related areas, your input can significantly enhance these resources. When contributing:
 
 - **Review Existing Content**: Familiarize yourself with the playbooks already present to understand the format and depth of information.
 - **Identify Gaps**: Look for areas where existing playbooks can be improved or where new playbooks are needed.
 - **Submit Detailed Contributions**: Ensure your contributions are thorough, well-researched, and in line with the established format.
 - **Follow Pull Request Guidelines**: Make sure your pull requests are clear and descriptive.
 
+**please add any missing resources that may be useful**
+
 ## Attribution
 
-If you find the content of this repository helpful and decide to use, recreate, or distribute it, we kindly ask that you provide proper attribution. Also, adhere to the licensing terms laid out in this repository. Respecting these guidelines helps maintain a spirit of collaboration and openness in the DEFI community.
+If you find the content of this repository helpful and decide to use, recreate, or distribute it, we kindly ask that you provide proper attribution. 
 
 ## License
 
